@@ -15,7 +15,7 @@ const Homepage: FC = () => {
     <title>{META_TITLE}</title>
   ) : (
     <title>
-      Arcana Market | NFT marketplace
+      Arcana Market | Dragon Deez Nutz
     </title>
   )
   const description = META_DESCRIPTION ? (
