@@ -15,7 +15,7 @@ const Homepage: FC = () => {
     <title>{META_TITLE}</title>
   ) : (
     <title>
-      Reservoir Market | Open source NFT marketplace powered by Reservoir
+      Arcana Market | NFT marketplace
     </title>
   )
   const description = META_DESCRIPTION ? (
@@ -23,7 +23,7 @@ const Homepage: FC = () => {
   ) : (
     <meta
       name="description"
-      content="Reservoir Market is an open source NFT marketplace powered by Reservoir"
+      content="Arcana Market is an NFT marketplace"
     />
   )
   const tagline = TAGLINE || 'Discover, buy and sell NFTs'
