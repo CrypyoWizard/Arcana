@@ -24,8 +24,7 @@ class MyDocument extends Document {
         <meta name="keywords" content="nft, ethereum, protocol" />
         <link rel="shortcut icon" type="image/svg" href="/reservoir.svg" />
         <title>
-          Arcana Market | NFT marketplace powered by Reservoir
-          Protocol
+          Arcana Market | NFT marketplace
         </title>
         <meta
           name="description"
@@ -36,7 +35,7 @@ class MyDocument extends Document {
         {/* The optimal size is 1200 x 630 (1.91:1 ratio). */}
         <meta
           name="twitter:image"
-          content="https://www.reservoir.market/og.png"
+          content="https://www.genesisdragons.com/images/para.gif"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
