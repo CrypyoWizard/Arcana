@@ -81,7 +81,7 @@ class MyDocument extends Document {
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:height" content="640" />
         <meta property="og:image:alt" content="Reservoir Market banner" />
-        <body className="bg-gray text-#fff-800">
+        <body className="bg-lightblue text-nuetral-800 color #fff">
           <Main />
           <NextScript />
         </body>
