@@ -83,7 +83,6 @@ class MyDocument extends Document {
         <meta property="og:image:alt" content="Reservoir Market banner" />
         <body className="bg-black text-#fff-800">
           <Main />
-          <"text-#fff">
           <NextScript />
         </body>
       </Html>
